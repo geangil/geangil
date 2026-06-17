@@ -17,7 +17,7 @@
 ### 👤 Sobre
 
 - 🏗️ Fundador da **[GilGrid](https://gilgrid.com)** — arquitetura de soluções e produtos digitais
-- 📱 16 anos em computação · mobile (iOS/Android), back-end e cloud
+- 📱 20+ anos em tecnologia · mobile (iOS/Android), back-end e cloud
 - ⚡ Foco: execução, IA aplicada e MVP → produção rápido
 - 🇧🇷 Curitiba, BR
 
