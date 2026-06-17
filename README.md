@@ -60,13 +60,6 @@
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?logo=anthropic&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs_/_RAG-e8b04a?logoColor=white)
 
-### 📊 GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=geangil&show_icons=true&hide_border=true&theme=dark&icon_color=e8b04a&title_color=e8b04a" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geangil&layout=compact&hide_border=true&theme=dark&title_color=e8b04a" alt="top langs" />
-</p>
-
 ---
 
 <p align="center"><i>"Times cheios de gente que manda, vazios de gente que entrega."</i></p>
